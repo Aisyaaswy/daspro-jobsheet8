@@ -4,7 +4,7 @@ public class RataNilai03 {
         Scanner sc = new Scanner (System.in);
         int i = 1, j = 1;
         float nilai, totalNilai, rataNilai = 0, nilaiMhs;
-        i = 1;
+        
         while (i<=5) {
             totalNilai = 0;
             System.out.println("Input Nilai Mahasiswa ke " + i );
